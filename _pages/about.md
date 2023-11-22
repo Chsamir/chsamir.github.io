@@ -24,6 +24,7 @@ My main research interests involve:
 
 - Dynamics and Functional Patterns Analysis
 ========================================================================================
+
 With different applications to real world probelms.
 
  
