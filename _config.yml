@@ -83,8 +83,8 @@ author:
   name             : "Chafik SAMIR"
   avatar           : "Chafik-Photo.png"
   bio              : "A. Professor (HDR)"
-  location         : "France"
-  employer         : UCA
+#  location         : "France"
+  employer         : UCA, FRANCE
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jAC2Tv4AAAAJ&hl=fr"
   email            :
