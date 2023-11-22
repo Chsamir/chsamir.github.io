@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- Optimization on Manifolds
-
 - Machine Learning
+
+- Optimization on Manifolds
 
 - Artificial Intelligence
 
