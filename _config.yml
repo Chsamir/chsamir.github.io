@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chafik SAMIR 1"
-  avatar           : "profile.png"
-  bio              : "Associate Professor (HDR)"
+  name             : "Chafik SAMIR"
+  avatar           : "Chafik-Photo.png"
+  bio              : "A. Professor (HDR)"
   location         : "France"
-  employer         : University of Clermont Auvergne
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : UCA
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=jAC2Tv4AAAAJ&hl=fr"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "chsamir"
   google_plus      :
   keybase          :
   instagram        :
