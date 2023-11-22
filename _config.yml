@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chsamir"
 title_separator          : "-"
-name                     : &name "My Name"
+name                     : &name "Chafik SAMIR"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
