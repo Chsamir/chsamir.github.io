@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-- Machine Learning
+- Optimization & Fitting on Manifolds
 
-- Optimization on Manifolds
-
-- Artificial Intelligence
+- Machine Learning & Artificial Intelligence
 
 - Statistical Shape Analysis: Functional, curves, surfaces, 4D, etc.
 
-- Inference, Regression and Classification on high Dimension and Manifold Embedding
+- Inference, Regression and Classification in high Dimension & Manifold Embedding
 
-- Spatio-temporal Gaussian processes
+- Spatio-temporal Processes
 
 - Dynamics and Functional Patterns Analysis
 
