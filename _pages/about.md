@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 My main research interests involve:
-
+===================================
 - Optimization on Manifolds
 
 - Machine Learning
@@ -23,7 +23,7 @@ My main research interests involve:
 - Spatio-temporal Gaussian processes
 
 - Dynamics and Functional Patterns Analysis
-
+========================================================================================
 With different applications to real world probelms.
 
  
