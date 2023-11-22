@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Interests"
+title: "Main research interests"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My main research interests involve:
-===================================
 - Optimization on Manifolds
 
 - Machine Learning
@@ -23,15 +21,15 @@ My main research interests involve:
 - Spatio-temporal Gaussian processes
 
 - Dynamics and Functional Patterns Analysis
-========================================================================================
+
 
 With different applications to real world probelms.
-
+===================================================
  
  #[Link-description](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 
 
-For more info
+For more info about open positions 
 ------
-contact me
+contact me by email
