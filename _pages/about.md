@@ -18,9 +18,6 @@ redirect_from:
 
 - Spatio-temporal Processes
 
-- Dynamics and Functional Patterns Analysis
-
-
 With different applications to real world probelms.
 ===================================================
 
