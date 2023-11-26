@@ -23,6 +23,6 @@ With different applications to real world probelms.
 
 
 
-For more info about open positions 
+Some open positions 
 ------
-contact me by email
+contact by email
