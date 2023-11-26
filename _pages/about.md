@@ -23,8 +23,6 @@ redirect_from:
 
 With different applications to real world probelms.
 ===================================================
- 
- #[Link-description](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 
 
