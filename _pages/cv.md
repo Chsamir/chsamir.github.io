@@ -18,14 +18,4 @@ News
 * News 2
   * a
   * b
-  
 
-Open positions 
-======
-
-Code 
-======
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
