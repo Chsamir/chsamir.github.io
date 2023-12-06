@@ -6,4 +6,4 @@ excerpt: 'This paper is about the number 3. The number 4 is left for future work
 date: 2023-11-10
 venue: 'PR International Conference on Artificial Intelligence'
 ---
-In this paper, we introduce a new method for learning and regression from a finite set of noisy points on Grassmann manifolds. In contrast to previously existing methods, we propose a new Riemannian Monte Carlo method to sample from the posterior distribution of the tangent space of a Grassmann manifold. Specifically, we investigate and exploit the geometric structure of this manifold which can be used as a solid basis to extend the proposed method to other manifolds in a similar manner.
+In this paper, we introduce a new method for learning and regression from a finite set of noisy points on Grassmann manifolds. We propose a new Riemannian Monte Carlo method to sample from the posterior distribution of the tangent space of a Grassmann manifold. Specifically, we investigate and exploit the geometric structure of this manifold to make the proposed method applicable for other manifolds.
