@@ -5,6 +5,5 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-11-01
 venue: 'PR International Conference on Artificial Intelligence'
-citation: 'A. Fradi, C. Samir. (2023). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about Statistical Machine Learning on Manifolds.
+In this paper, we introduce a new method for learning and regression from a finite set of noisy points on Grassmann manifolds. In contrast to previously existing methods, we propose a new Riemannian Monte Carlo method to sample from the posterior distribution of the tangent space of a Grassmann manifold. Specifically, we investigate and exploit the geometric structure of this manifold which can be used as a solid basis to extend the proposed method to other manifolds in a similar manner. We demonstrate our method for regression using different setups and datasets.
