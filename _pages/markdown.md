@@ -10,5 +10,3 @@ redirect_from:
 ## Tips and hints
 
 ## Some Resources
-
-
