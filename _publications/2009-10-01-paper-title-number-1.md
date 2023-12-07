@@ -1,8 +1,8 @@
 ---
-title: "Spline Interpolation on Space of Probability Density Functions"
+title: "Spline Interpolation on the Manifold of Probability Density Functions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about optimization on the Riemannian manifold of PDFs'
+excerpt: 'This paper is about optimization on  Riemannian manifolds'
 date: 2023-03-23
 venue: 'Journal of Computational and Applied Mathematics'
 ---
