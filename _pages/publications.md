@@ -11,7 +11,6 @@ author_profile: true
   </u>
 {% endif %}
 
-
 {% include base_path %}
 
 {% for post in site.publications reversed %}
