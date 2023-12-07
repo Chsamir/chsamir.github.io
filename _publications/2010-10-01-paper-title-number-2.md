@@ -2,7 +2,7 @@
 title: "A New Framework for Classifying Probability Density Functions"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about constrained Gaussian processes on manifolds'
+excerpt: 'This paper is about constrained Gaussian processes on Riemannian manifolds'
 date: 2023-09-17
 venue: 'European Conference on Machine Learning'
 paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://dl.acm.org/doi/10.1007/978-3-031-43412-9_30)'
