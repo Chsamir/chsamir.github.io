@@ -2,7 +2,7 @@
 title: "Learning and inferring on Cochlear Shapes of Juvenile and Adult Fossil Hominins"
 collection: publications
 #permalink: /publication/2023-10-27-paper-title-number-1
-excerpt: 'This paper is about Learning and inferring on Cochlear Shapes of Juvenile and Adult Fossil Hominins'
+excerpt: 'This paper is about statistical learning models on shape space'
 date: 2023-10-27
 venue: 'International conference on artificial intelligence and applied mathematics for history and archaeology'
 ---
