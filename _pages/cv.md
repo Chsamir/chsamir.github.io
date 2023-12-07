@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-News
+Code on github
 ======
-* News 1 
-  * a
-  * b
+* Sampling from a manifold
+* Testing some manifold hypothesis
+* Test statistic on Hyperspheres
 
-* News 2
-  * a
-  * b
+
 
