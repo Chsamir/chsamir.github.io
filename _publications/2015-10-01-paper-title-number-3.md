@@ -1,5 +1,5 @@
 ---
-title: "Learning and Regression on the Grassmannian"
+title: "Learning and Regression on Grassmannian Manifolds"
 collection: publications
 #permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about learning and regression from a finite set of noisy observations on Grassmannian manifolds'
