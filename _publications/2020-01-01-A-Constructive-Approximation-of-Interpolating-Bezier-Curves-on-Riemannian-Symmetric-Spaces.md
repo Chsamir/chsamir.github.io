@@ -1,5 +1,4 @@
 ---
-
 title: "A Constructive Approximation of Interpolating Bézier Curves on Riemannian Symmetric Spaces"
 collection: publications
 permalink: /publication/2020-01-01-A-Constructive-Approximation-of-Interpolating-Bezier-Curves-on-Riemannian-Symmetric-Spaces
