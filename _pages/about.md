@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Optimization & Fitting on Manifolds
-- Machine Learning & Artificial Intelligence
+- Optimization, Regression & Fitting on Manifolds
+- Data Science & Machine Learning & Artificial Intelligence
 - Statistical Shape Analysis: Functional, curves, and surfaces
-- Inference, Regression and Classification in high Dimension & Manifold Embedding
+- Inference, Regression and Classification in high Dimension
 - Spatio-temporal Processes
 
 With different applications to real world probelms.
@@ -19,5 +19,6 @@ With different applications to real world probelms.
 
 
 Some open positions 
-------
-Contact me by email
+-------------------
+- Post-doc:  Bayesian optimization for transfer learning
+  Contact me by email for more details 
