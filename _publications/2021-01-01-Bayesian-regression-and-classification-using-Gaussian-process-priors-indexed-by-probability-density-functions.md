@@ -1,5 +1,4 @@
 ---
-
 title: "Bayesian regression and classification using Gaussian process priors indexed by probability density functions"
 collection: publications
 permalink: /publication/2021-01-01-Bayesian-regression-and-classification-using-Gaussian-process-priors-indexed-by-probability-density-functions
@@ -13,5 +12,8 @@ Use [Google Scholar](https://scholar.google.com/scholar?q=Bayesian+regression+an
 
  
 
-    In this paper, we  introduce the notion of   Gaussian processes indexed  by probability density functions  for extending the  Mat\'ern family of covariance functions. We use  some tools from  information geometry to improve the  efficiency and the computational aspects of the Bayesian learning model. We particularly show how a  Bayesian inference with a  Gaussian process prior  (covariance parameters estimation  and prediction) can be put into action on the  space of probability density functions. Our framework has the capacity of classifiying and infering on  data observations that lie on nonlinear subspaces.
-       
+ <p align="justify">
+
+In this paper, we introduce the notion of Gaussian processes indexed by probability density functions for extending the Mat'ern family of covariance functions. We use some tools from information geometry to improve the efficiency and the computational aspects of the Bayesian learning model. We particularly show how a Bayesian inference with a Gaussian process prior (covariance parameters estimation and prediction) can be put into action on the space of probability density functions. Our framework has the capacity of classifiying and infering on data observations that lie on nonlinear subspaces.
+
+<\p>
