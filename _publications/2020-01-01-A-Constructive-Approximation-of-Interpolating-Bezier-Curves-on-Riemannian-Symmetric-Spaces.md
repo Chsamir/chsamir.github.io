@@ -6,11 +6,10 @@ date: 2020-01-01
 venue: Ines Adouani and Chafik Samir, 'Journal of Optim. Theory and Appl.''
 
 ---
-
-
+Use [Google Scholar](https://scholar.google.com/scholar?q=A+Constructive+Approximation+of+Interpolating+B&#x27;ezier+Curves+on+Riemannian+Symmetric+Spaces){:target="_blank"} for full citation
 
 <p align="justify">
-We propose a new method to approximate curves that interpolate a given 
+ We propose a new method to approximate curves that interpolate a given 
 set of time-labeled data on Riemannian symmetric spaces. First, we 
 present our new formulation on the Euclidean space as a result of 
 minimizing the mean square acceleration. This motivates its 
@@ -24,4 +23,3 @@ situations. Several examples are provided together with some
 applications and graphical representations.
 </p>
 
-Use [Google Scholar](https://scholar.google.com/scholar?q=A+Constructive+Approximation+of+Interpolating+B&#x27;ezier+Curves+on+Riemannian+Symmetric+Spaces){:target="_blank"} for full citation
