@@ -1,5 +1,4 @@
 ---
-
 title: "Learning and Regression on the Grassmannian"
 collection: publications
 permalink: /publication/2023-01-01-Learning-and-Regression-on-the-Grassmannian
