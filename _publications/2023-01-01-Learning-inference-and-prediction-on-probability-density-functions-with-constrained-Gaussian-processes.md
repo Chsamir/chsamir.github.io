@@ -1,11 +1,10 @@
 ---
-
 title: "Learning, inference, and prediction on probability density functions with constrained Gaussian processes"
 collection: publications
 permalink: /publication/2023-01-01-Learning-inference-and-prediction-on-probability-density-functions-with-constrained-Gaussian-processes
 date: 2023-01-01
 venue: 'Journal of Inf. Sci.'
-citation: ' Tien Tam Tran,  Anis Fradi,  Chafik Samir, &quot; Journal of Inf. Sci., 2023.'
+citation: ' Tien Tam Tran,  Anis Fradi,  Chafik Samir, " Journal of Inf. Sci., 2023.'
 
 ---
 
