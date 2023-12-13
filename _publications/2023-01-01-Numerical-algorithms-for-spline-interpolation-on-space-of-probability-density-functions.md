@@ -6,12 +6,9 @@ date: 2023-01-01
 venue: 'Journal of Comput. Appl. Math.'
 citation: ' Ines Adouani,  Chafik Samir, "Numerical algorithms for spline interpolation on space of probability density functions." Journal of Comput. Appl. Math., 2023.'
 
-
 ---
 
  Use [Google Scholar](https://scholar.google.com/scholar?q=Numerical+algorithms+for+spline+interpolation+on+space+of+probability+density+functions){:target="_blank"} for full citation 
-
-
 
 <p align="justify"> The paper addresses the problem of spline interpolations on $\mathcal{P}$,
  the space of probability density functions when only a few observations 
