@@ -26,5 +26,5 @@ fail to reach good performances. Focusing on cochlear shapes,
 we introduce a novel framework to overcome these limitations by 
 avoiding inference on infinite-dimensional spaces when using a 
 Bayesian inference with spherical Gaussian processes decomposition. 
-
+</div>
 ```
