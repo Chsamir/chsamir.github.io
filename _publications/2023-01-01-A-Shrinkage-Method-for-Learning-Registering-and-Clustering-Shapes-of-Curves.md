@@ -3,7 +3,7 @@ title: "A Shrinkage Method for Learning, Registering and Clustering Shapes of Cu
 collection: publications
 permalink: /publication/2023-01-01-A-Shrinkage-Method-for-Learning-Registering-and-Clustering-Shapes-of-Curves
 date: 2023-01-01
-venue: 'In the proceedings of the 12th International Symposium on Information and Communication Technology, SOICT 2023, Ho Chi Minh, Vietnam, December 7-8, 2023'
+venue: 'In the proceedings of the 12th International Symposium on Information and Communication Technology,  Ho Chi Minh, Vietnam, December 7-8, 2023'
 paperurl: 'https://doi.org/10.1145/3628797.3628903'
 citation: ' Anis Fradi,  Chafik Samir,  José Braga, SOICT 2023.'
 
