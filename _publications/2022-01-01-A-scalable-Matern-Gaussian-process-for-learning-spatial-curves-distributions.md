@@ -11,7 +11,7 @@ citation: ' Tam Tran,  Yan Feunteun,  Chafik Samir,  José Braga" Journal of Inf
 Use [Google Scholar](https://scholar.google.com/scholar?q=A+scalable+Mat&#x27;ern+Gaussian+process+for+learning+spatial+curves+distributions){:target="_blank"} for full citation
 
 ```markdown
-<p align=center> 
+<p align="center"> 
 Data points on Riemannian manifolds are fundamental objects in many
 applications and fields. Representations include shapes from biology and
 medical imaging, directions and rotations from robots. This paper
