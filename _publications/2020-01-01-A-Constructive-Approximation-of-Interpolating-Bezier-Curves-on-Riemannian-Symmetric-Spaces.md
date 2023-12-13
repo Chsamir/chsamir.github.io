@@ -3,7 +3,7 @@ title: "A Constructive Approximation of Interpolating Bézier Curves on Riemanni
 collection: publications
 permalink: /publication/2020-01-01-A-Constructive-Approximation-of-Interpolating-Bezier-Curves-on-Riemannian-Symmetric-Spaces
 date: 2020-01-01
-venue: Ines Adouani and Chafik Samir, 'Journal of Optim. Theory and Appl.''
+venue: 'Journal of Optim. Theory and Appl.'
 
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=A+Constructive+Approximation+of+Interpolating+B&#x27;ezier+Curves+on+Riemannian+Symmetric+Spaces){:target="_blank"} for full citation
