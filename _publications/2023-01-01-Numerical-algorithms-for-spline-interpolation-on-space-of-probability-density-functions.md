@@ -1,10 +1,12 @@
 ---
-title: "Numerical algorithms for spline interpolation on space of probability density functions"
+<p align="justify">
+title: "Numerical algorithms for spline interpolation on the manifold of probability density functions"
 collection: publications
 permalink: /publication/2023-01-01-Numerical-algorithms-for-spline-interpolation-on-space-of-probability-density-functions
 date: 2023-01-01
 venue: 'Journal of Comput. Appl. Math.'
 citation: ' Ines Adouani,  Chafik Samir, "Numerical algorithms for spline interpolation on space of probability density functions." Journal of Comput. Appl. Math., 2023.'
+</p>
 ---
 ### Abstract
 
