@@ -13,8 +13,7 @@ citation: ' Ines Adouani,  Chafik Samir, "Numerical algorithms for spline interp
 
 
 
-<p align="justify">
-The paper addresses the problem of spline interpolations on $\mathcal{P}$,
+<p align="justify"> The paper addresses the problem of spline interpolations on $\mathcal{P}$,
  the space of probability density functions when only a few observations 
 $p_i \in \mathcal{P}$ are available. Given a finite set of $n+1$ distinct
  time instants $t_i$ and corresponding data points $p_i \in \mathcal{P}$,
