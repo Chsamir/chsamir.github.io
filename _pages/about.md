@@ -22,12 +22,14 @@ redirect_from:
 News 
 -------------------
 Best Paper Award : 
+
 A. Fradi and C. Samir, "Learning and Regresssion on Grassmann Manifolds", 
+
 PC International Conference on Artificial Intelligence, December, 2023
 
 Open positions
 -------------------
 
 - Post-doc:  Bayesian optimization for transfer learning
-- 
-  Contact me by email for more details 
+- Other positions soon 
+- Contact me by email for more details 
