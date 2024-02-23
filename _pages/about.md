@@ -11,12 +11,19 @@ redirect_from:
 
 ---
 
-- Optimization, Regression & Fitting on Manifolds
 - Data Science & Machine Learning & Artificial Intelligence
+- Optimization, Regression & Fitting on Manifolds
 - Statistical Shape Analysis: Functional, curves, and surfaces
 - Inference, Regression and Classification in high Dimension
 - Spatio-temporal Processes
 - Applications to real world probelms.
+  
+-------------------
+News 
+-------------------
+Best Paper Award : 
+A. Fradi and C. Samir, "Learning and Regresssion on Grassmann Manifolds", 
+PC International Conference on Artificial Intelligence, December, 2023
 
 Open positions
 -------------------
