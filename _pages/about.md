@@ -21,6 +21,7 @@ redirect_from:
 -------------------
 News 
 -------------------
+
 Best Paper Award : 
 
 A. Fradi and C. Samir, "Learning and Regresssion on Grassmann Manifolds", 
