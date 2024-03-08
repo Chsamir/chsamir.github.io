@@ -33,7 +33,7 @@ PC International Conference on Artificial Intelligence, December, 2023
 [link](https://mloma.sciencesconf.org/)
 
 - Transfer Learning Workshop at IJCNN 2024, June 30-July 5, 2024, Yokohama, Japan.
-- [link](https://2024.ieeewcci.org/workshops)
+[link](https://2024.ieeewcci.org/workshops)
 
 ### Open positions
 -------------------
