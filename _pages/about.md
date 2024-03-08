@@ -29,8 +29,11 @@ PC International Conference on Artificial Intelligence, December, 2023
 
 ### Conferences 
 -------------------
-MLOMA: Machine Learning, Optimization and Manifolds, December 22th, Clermont-Ferrand, France 
+- MLOMA: Machine Learning, Optimization and Manifolds, December 22, 2023, Clermont-Ferrand, France. 
 [link](https://mloma.sciencesconf.org/)
+
+- Transfer Learning Workshop at IJCNN 2024, June 30-July 5, 2024, Yokohama, Japan.
+- [link](https://2024.ieeewcci.org/workshops)
 
 ### Open positions
 -------------------
