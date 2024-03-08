@@ -19,19 +19,19 @@ redirect_from:
 - Applications to real world probelms.
   
 -------------------
-News 
+## News 
 -------------------
 
-## Best Paper Award :
+### Best Paper Award :
 ---------------------
 A. Fradi and C. Samir, "Learning and Regresssion on Grassmann Manifolds", 
 PC International Conference on Artificial Intelligence, December, 2023
 
-## Conference 
+### Conferences 
 -------------------
 MLOMA: Machine Learning, Optimization and Manifolds, December 22th, Clermont-Ferrand, France  
 
-## Open positions
+### Open positions
 -------------------
 
 - Post-doc:  Bayesian optimization for transfer learning
