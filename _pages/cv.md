@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News and Code "
+title: "Please review our articles and if code and data are not publicly available, they may be shared upon reasonable request."
 permalink: /cv/
 author_profile: true
 redirect_from:
