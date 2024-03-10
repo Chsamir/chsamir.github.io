@@ -11,15 +11,15 @@ redirect_from:
 
 Check the code on github for 
 ======
-* Sampling from a manifold
-* Binary decision on some manifold 
+* Binary decision on some manifolds 
 * Test statistic on Hyperspheres
 * Transfer learning
 * Learning and regression on Grassmannian manifolds 
 * Classifying Probability Density Functions
-* Learning and Inference on Probability Density Functions with Constrained Gaussian Process-based on Spherical HMC
+* Learning and Inference on Probability Density Functions with Constrained Gaussian Process (with Spherical HMC)
 * Low Complexity Regression Models with Gaussian Process Prior
 * Reduced Rank Spectral Mixtures Gaussian Processes
+* Sampling from a manifold
 
 
 
