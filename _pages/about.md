@@ -27,7 +27,7 @@ redirect_from:
 A. Fradi and C. Samir, "Learning and Regresssion on Grassmann Manifolds", 
 PC International Conference on Artificial Intelligence, December, 2023
 
-### Conferences 
+### Conferences organization
 -------------------
 - MLOMA: Machine Learning, Optimization and Manifolds, December 22, 2023, Clermont-Ferrand, France. 
 [link](https://mloma.sciencesconf.org/)
