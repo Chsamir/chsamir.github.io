@@ -1,5 +1,5 @@
 ---
-title: "Learning, inference, and prediction on probability density functions with constrained Gaussian processes"
+title: "Learning, inference, and prediction on manifolds: constrained Gaussian processes on PDFs"
 collection: publications
 permalink: /publication/2023-01-01-Learning-inference-and-prediction-on-probability-density-functions-with-constrained-Gaussian-processes
 date: 2023-01-01
