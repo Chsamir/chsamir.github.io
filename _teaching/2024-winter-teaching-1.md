@@ -8,13 +8,11 @@ date: 2024-01-08
 location: "France"
 ---
 
-A short description...
+- This course is an intruduction to image and signal processing.
+- Basic notions:
+    * Representation
+    * Transformation and extraction 
+    * Visualization
+    * Convolution 
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
