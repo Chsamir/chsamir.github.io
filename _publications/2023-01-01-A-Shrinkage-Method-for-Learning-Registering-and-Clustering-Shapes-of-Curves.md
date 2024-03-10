@@ -1,5 +1,5 @@
 ---
-title: "A Shrinkage Method for Learning, Registering and Clustering Shapes of Curves"
+title: "Manifold-valued data: Learning, Registering and Clustering Shapes of Curves"
 collection: publications
 permalink: /publication/2023-01-01-A-Shrinkage-Method-for-Learning-Registering-and-Clustering-Shapes-of-Curves
 date: 2023-01-01
