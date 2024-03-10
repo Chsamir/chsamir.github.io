@@ -1,5 +1,5 @@
 ---
-title: "Splines on the manifold of probability density functions"
+title: "Manifold-valued data: Probability density functions"
 collection: publications
 permalink: /publication/2023-01-01-Numerical-algorithms-for-spline-interpolation-on-space-of-probability-density-functions
 date: 2023-01-01
