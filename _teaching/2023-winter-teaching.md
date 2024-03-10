@@ -1,5 +1,5 @@
 ---
-title: "machine learning for decision-making"
+title: "Machine learning models for decision-making"
 collection: teaching
 type: "Bachelor course"
 permalink: /teaching/2023-spring-teaching-1
