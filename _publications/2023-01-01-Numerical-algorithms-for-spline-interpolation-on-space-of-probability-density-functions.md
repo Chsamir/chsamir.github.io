@@ -1,5 +1,5 @@
 ---
-title: "Manifold-valued data: Probability density functions"
+title: "Manifold-valued data: Regression and Fitting on PDFs"
 collection: publications
 permalink: /publication/2023-01-01-Numerical-algorithms-for-spline-interpolation-on-space-of-probability-density-functions
 date: 2023-01-01
