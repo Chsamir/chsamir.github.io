@@ -1,9 +1,9 @@
 ---
-title: "Learning and Regression on the Grassmannian"
+title: "Learning and Regression on manifolds: Data on Grassmannian manifolds"
 collection: publications
 permalink: /publication/2023-01-01-Learning-and-Regression-on-the-Grassmannian
 date: 2023-01-01
-venue: 'In the proceedings of the  PR International Conference on Artificial Intelligence, Jakarta, Indonesia, November 15-19, 2023'
+venue: 'PR International Conference on Artificial Intelligence, Jakarta, Indonesia, November 15-19, 2023'
 paperurl: 'https://doi.org/10.1007/978-981-99-7022-3\_6'
 citation: ' Anis Fradi,  Chafik Samir, PRICAI 2023.'
 
