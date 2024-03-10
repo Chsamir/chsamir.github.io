@@ -8,7 +8,7 @@ date: 2024-01-08
 location: "France"
 ---
 
-- This course is an intruduction to image and signal processing.
+- This course is an intruduction to image and signal processing with OpenCV.
 - Basic notions:
     * Representation
     * Transformation and extraction 
