@@ -9,5 +9,4 @@ location: "France"
 ---
 
 - The main objective of this course is to take in charge simple and interpretable models for decision making with ML. Each model is tested on a use case wuth respect to following the steps: Modeling the problem, exploring data, choosing and optimizing a model, analyzing and interpreting the results before validating the decision.
-
 - Programming language: Python and libraries 
