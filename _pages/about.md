@@ -10,7 +10,7 @@ redirect_from:
 - /about.html
 
 ---
-Chafik SAMIR is an Associate Professor (HDR) at the University of Clermont Auvergne (UCA) and member of LIMOS (CNRS UMR 6158) Laboratory, France. He obtained his PhD from the University of Sciences and Technologies of Lille in 2007. After spending two years as a postdoctoral fellow in the Machine Learning Group at UCL, he joined UCA as an Assistant Professor in 2009. His main research interests are : 
+Chafik SAMIR is an Associate Professor (HDR) at UCA and co-head of MOCA team at  LIMOS(CNRS UMR 6158), France. He obtained his PhD from USTL in 2007. After spending two years as a postdoctoral fellow in the Machine Learning Group at UCL, he joined UCA as an Assistant Professor in 2009. His main research interests are : 
 
 - Data Science & Machine Learning & Artificial Intelligence
 - Gaussian Process: Spatio-temporal and Deep
