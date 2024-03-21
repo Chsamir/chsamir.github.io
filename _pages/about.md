@@ -17,7 +17,7 @@ Chafik SAMIR is an Associate Professor (HDR) at UCA and co-head of MOCA team at 
 - Optimization, Regression & Fitting on Manifolds
 - Statistical Shape Analysis: Functional, curves, and surfaces
 - Inference, Regression and Classification in high Dimension
-- With applications to real world probelms : Data Science, Indiustrial, Medical, Paleontology,  Artificial Vision,  etc.
+- With applications to real world probelms : Data Science, Indiustrial, Medical, Paleontology, Genomics, Artificial Vision,  etc.
   
 -------------------
 ## News 
