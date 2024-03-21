@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Please check our papers and if the code and data are not publicly available, they may be shared upon reasonable request."
+title: "Please check our papers and if the code and data are not publicly available, they may be shared upon reasonable request. The code and data are results of collaborative works. Please cite related papers."
 permalink: /cv/
 author_profile: true
 redirect_from:
