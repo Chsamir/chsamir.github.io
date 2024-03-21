@@ -11,6 +11,7 @@ redirect_from:
 
 Check the code on github for 
 ======
+* Data quality meseaures 
 * Binary decision on some manifolds 
 * Test statistic on Hyperspheres
 * Transfer learning
