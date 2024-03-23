@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-01-01-A-New-Framework-for-Classifying-Probability-Density-Functions
 date: 2023-09-18
 venue: 'In the proceedings of the European Conference on Machine Learning, ECML  , Turin, Italy, September 18-22, 2023'
-paperurl: '[https://doi.org/10.1007/978-3-031-43412-9\_30](https://doi.org/10.1007/978-3-031-43412-9_30)'
+paperurl: '[https://doi.org/10.1007/978-3-031-43412-9_30](https://doi.org/10.1007/978-3-031-43412-9_30)'
 citation: ' Anis Fradi,  Chafik Samir,  ECML 2023.'
 
 ---
