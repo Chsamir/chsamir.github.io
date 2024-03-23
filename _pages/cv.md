@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The code and data are results of collaborative works. Please cite related papers.
-Check the code on github for 
+The code and data are results of collaborative works. Please cite related papers. Check the code on github for: 
 ======
 * Data quality meseaures 
 * Binary decision on some manifolds 
