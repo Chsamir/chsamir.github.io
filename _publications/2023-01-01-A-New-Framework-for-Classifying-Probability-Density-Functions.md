@@ -9,7 +9,7 @@ citation: ' Anis Fradi,  Chafik Samir,  ECML 2023.'
 
 ---
 
-[Access paper here](https://doi.org/10.1007/978-3-031-43412-9_30){:target="_blank"}
+[Access paper here](https://link.springer.com/chapter/10.1007/978-3-031-43412-9_30){:target="_blank"}
 
 <p align="justify">
 This paper introduces a new framework for classifying probability density
