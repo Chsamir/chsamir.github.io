@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Please check our papers and if the code and data are not publicly available, they may be shared upon reasonable request. The code and data are results of collaborative works. Please cite related papers."
+title: "Please check our papers and if the code and data are not publicly available, they may be shared upon reasonable request."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+The code and data are results of collaborative works. Please cite related papers.
 Check the code on github for 
 ======
 * Data quality meseaures 
