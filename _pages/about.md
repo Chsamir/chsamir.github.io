@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 <p align="justify">
-Chafik SAMIR is an Associate Professor (HDR, HC) at UCA and co-head of Modeling, Continuous Optimization and Applications (MOCA) team at  LIMOS (CNRS UMR 6158), France. He obtained his PhD from USTL in 2007. After spending two years as a postdoctoral fellow in the Machine Learning Group at UCL, he joined UCA as an Assistant Professor in 2009. His main research interests are : </p>
+Chafik SAMIR is an Associate Professor (HDR, HC) at UCA and co-head MOCA team at  LIMOS (CNRS UMR 6158), France. He obtained his PhD from USTL in 2007. After spending two years as a postdoctoral fellow in the Machine Learning Group at UCL, he joined UCA as an Assistant Professor in 2009. His main research interests are : </p>
   
 - Data Science & Machine Learning & Artificial Intelligence
 - Gaussian Processes: Spatio-temporal, Deep, Constrained, Reduced, Scalable
