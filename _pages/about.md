@@ -29,7 +29,7 @@ Chafik SAMIR is an Associate Professor (HDR, HC) at UCA and co-head of MOCA team
 A. Fradi and C. Samir, "Learning and Regresssion on Grassmann Manifolds", 
 PC International Conference on Artificial Intelligence, December, 2023
 
-### Conferences organization
+### Conferences organization and recent events
 -------------------
 - MLOMA: Machine Learning, Optimization and Manifolds, December 22, 2023, Clermont-Ferrand, France. 
 [link](https://mloma.sciencesconf.org/)
