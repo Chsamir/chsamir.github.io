@@ -13,11 +13,11 @@ redirect_from:
 <p align="justify">
 Chafik SAMIR is an Associate Professor (HDR, HC) at UCA and co-head of MOCA team at  LIMOS (CNRS UMR 6158), France. He obtained his PhD from USTL in 2007. After spending two years as a postdoctoral fellow in the Machine Learning Group at UCL, he joined UCA as an Assistant Professor in 2009. His main research interests are : </p>
   
-- Data Science & Machine Learning & Artificial Intelligence
+- Artificial Intelligence: Vision, Learning, and  Data Science
 - Gaussian Processes: Spatio-temporal, Deep, Constrained, Reduced, Scalable
-- Optimization, Regression & Fitting on Manifolds
+- Regression: Optimization and Fitting on Manifolds
 - Statistical Shape Analysis: Functional, curves, and surfaces
-- Inference, Regression and Classification in high Dimension
+
 - With applications to real world probelms : Artificial Vision, Data Science, Indiustrial, Medical, Paleontology, Genomics,   etc.
   
 -------------------
@@ -36,6 +36,14 @@ PC International Conference on Artificial Intelligence, December, 2023
 
 - Transfer Learning Workshop at IJCNN 2024, June 30-July 5, 2024, Yokohama, Japan.
 [link](https://2024.ieeewcci.org/workshops)
+
+- Our paper "A New Framework for Evaluating the Validity and the Performance of Binary Decisions on Manifold-valued Data"
+has been accepted for oral presentation  @ECMLPKDD2024 (24% acceptance), A. Fradi and C. Samir (2024)
+
+- Our paper "A New Bayesian Approach to Global Optimization on  Parametrized Surfaces" has been accepted for publication in Journal of Optimization Theory and Applications, A. Fradi, I. Adouani, and C. Samir (2024)
+
+-  Our paper "Cubic Hermite Interpolators on the Space of Probability Measures" has been accepted for publication in Journal Mathematical Methods in the Applied Sciences, I. Adouani, T. T. Tran, and C. Samir (2024)
+  
 
 ### Open positions
 -------------------
