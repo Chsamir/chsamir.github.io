@@ -13,10 +13,10 @@ redirect_from:
 <p align="justify">
 Chafik SAMIR is an Associate Professor at UCA and co-head of MOCA team at  LIMOS Laboratory, France. He obtained his PhD from USTL in 2007. After spending two years as a postdoctoral fellow in the Machine Learning Group at UCL, he joined UCA as an Assistant Professor in 2009. His main research interests are : </p>
   
-- Artificial Intelligence: Vision, Learning, and  Data Science
+- Artificial Intelligence: Vision and  Learning
 - Gaussian Processes: Spatio-temporal, Deep, Constrained, Reduced, Scalable
 - Regression: Optimization and Fitting on Manifolds
-- Statistical Shape Analysis: Functional, curves, and surfaces
+- Shape Analysis and Patterns: Functional, curves, and surfaces
 
 - With applications to real world probelms : Medical, Artificial Vision, Data Science, Indiustrial, Paleontology, Genomics,   etc.
   
