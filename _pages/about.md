@@ -34,6 +34,9 @@ PC International Conference on Artificial Intelligence, December, 2023
 - MLOMA: Machine Learning, Optimization and Manifolds, December 22, 2023, Clermont-Ferrand, France. 
 [link](https://mloma.sciencesconf.org/)
 
+- Springer book: Our book Regression and Fittting on Manifold-valued Data has been accpted for publication and will be available as paperback on 09/2024. 
+
+
 - Transfer Learning Workshop at IJCNN 2024, June 30-July 5, 2024, Yokohama, Japan.
 [link](https://2024.ieeewcci.org/workshops)
 
